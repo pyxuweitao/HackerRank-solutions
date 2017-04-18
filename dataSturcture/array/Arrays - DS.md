@@ -1,8 +1,14 @@
 #Arrays - DS
 
-**2014-04-17**
-
 @(OJ)[hackerrank, datastructure]
+
+>**Problem Information:**
+
+>[problem's link](https://www.hackerrank.com/challenges/arrays-ds)
+>**AC date** : **2014-04-17**
+>**Category** : data structure->array
+
+
 
 -------------------
 
