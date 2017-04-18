@@ -2,11 +2,12 @@
 
 @(OJ)[hackerrank, datastructure]
 
->**Problem Information:**
+> **Problem Information:**
 
->[problem's link](https://www.hackerrank.com/challenges/arrays-ds)
->**AC date** : **2014-04-17**
->**Category** : data structure->array
+> [problem's link](https://www.hackerrank.com/challenges/arrays-ds)
+> **AC date** : **2014-04-17**
+
+> **Category** : data structure->array
 
 
 
@@ -36,12 +37,12 @@ Print all $N$ integers in $A$ in reverse order as a single line of space-separat
 
 ### Sample Input
 
->4
+> 4
 > 1 4 3 2
 
 ### Sample Output
 
-> 2 3 4 1
+>  2 3 4 1
 
 ## Answer
 
