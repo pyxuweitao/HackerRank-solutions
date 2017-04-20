@@ -7,3 +7,5 @@
 |:--:|:---:|:-: | :--:|
 |Arrays|2017-04-17|C++| data structure->array |
 |2D Array|2017-04-18|C++| data structure->array |
+|Left Rotation|2017-04-19|C++| data structure->array |
+|Sparse Arrays|2017-04-20|Python2| data structure->array |
