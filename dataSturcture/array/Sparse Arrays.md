@@ -36,37 +36,44 @@ Print a single line of $n$ space-separated integers denoting the final state of 
 
 ### Sample Input
 
-4
-aba
-baba
-aba
-xzxb
-3
-aba
-xzxb
-ab
+> 4
+> 
+> aba
+> 
+> baba
+> 
+> aba
+> 
+> xzxb
+> 
+> 3
+> 
+> aba
+> 
+> xzxb
+> 
+> ab
+> 
 
 
 ### Sample Output
 
-2
-1
-0
+> 2
+>
+> 1
+>
+> 0
 
 ## Answer
 
 ### Python 2
 
 ```python
+
 string_seq = [raw_input().strip() for _ in xrange(int(raw_input()))]
 for _ in xrange(int(raw_input())):
     print string_seq.count(raw_input().strip())
-    
-    for(int i = 0; i < d; i++)
-        cout<<seq[i]<<' ';
-    
-    return 0;
-}
+
 
 ```
 
