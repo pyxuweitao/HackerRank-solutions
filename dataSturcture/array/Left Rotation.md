@@ -6,7 +6,7 @@
 >
 > [problem's link](https://www.hackerrank.com/challenges/array-left-rotation)
 >
-> **AC date** : **2014-04-19**
+> **AC date** : **2017-04-19**
 >
 > **Category** : data structure->array
 

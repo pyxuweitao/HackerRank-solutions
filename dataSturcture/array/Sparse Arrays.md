@@ -6,7 +6,7 @@
 >
 > [problem's link](https://www.hackerrank.com/challenges/sparse-arrays)
 >
-> **AC date** : **2014-04-20**
+> **AC date** : **2017-04-20**
 >
 > **Category** : data structure->array
 
