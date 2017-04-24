@@ -6,7 +6,7 @@
 >
 > [problem's link](https://www.hackerrank.com/challenges/crush)
 >
-> **AC date** : **2014-04-22**
+> **AC date** : **2017-04-22**
 >
 > **Category** : data structure->array
 
