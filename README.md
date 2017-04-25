@@ -13,3 +13,4 @@
 |Algorithmic Crush|2017-04-22|C++| data stcaructure->array |
 |Maximum Element|2017-04-23|C++| data stcaructure->stack |
 |Tree:Preorder Traversal|2017-04-24|C++| data stcaructure->tree |
+|Print the Elements of a Linked List|2017-04-25|C++| data stcaructure->linked list |
