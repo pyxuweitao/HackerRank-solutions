@@ -15,3 +15,4 @@
 |Tree:Preorder Traversal|2017-04-24|C++| data stcaructure->tree |
 |Print the Elements of a Linked List|2017-04-25|C++| data stcaructure->linked list |
 |Insert a node at the head of a linked list|2017-04-26|C++| data stcaructure->linked list |
+|Insert a Node at the Tail of a Linked List|2017-04-27|C++| data stcaructure->linked list |
